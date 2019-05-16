@@ -1,0 +1,10 @@
+C:\Users\1712082018\Desktop\qsharp\BellsTest\BellsTest_Qsharp\BellsTest_Qsharp\obj\Debug\netcoreapp2.0\BellsTest_Qsharp.csproj.CoreCompileInputs.cache
+C:\Users\1712082018\Desktop\qsharp\BellsTest\BellsTest_Qsharp\BellsTest_Qsharp\obj\Debug\netcoreapp2.0\BellsTest_Qsharp.AssemblyInfoInputs.cache
+C:\Users\1712082018\Desktop\qsharp\BellsTest\BellsTest_Qsharp\BellsTest_Qsharp\obj\Debug\netcoreapp2.0\BellsTest_Qsharp.AssemblyInfo.cs
+C:\Users\1712082018\Desktop\qsharp\BellsTest\BellsTest_Qsharp\BellsTest_Qsharp\bin\Debug\netcoreapp2.0\BellsTest_Qsharp.deps.json
+C:\Users\1712082018\Desktop\qsharp\BellsTest\BellsTest_Qsharp\BellsTest_Qsharp\bin\Debug\netcoreapp2.0\BellsTest_Qsharp.runtimeconfig.json
+C:\Users\1712082018\Desktop\qsharp\BellsTest\BellsTest_Qsharp\BellsTest_Qsharp\bin\Debug\netcoreapp2.0\BellsTest_Qsharp.runtimeconfig.dev.json
+C:\Users\1712082018\Desktop\qsharp\BellsTest\BellsTest_Qsharp\BellsTest_Qsharp\bin\Debug\netcoreapp2.0\BellsTest_Qsharp.dll
+C:\Users\1712082018\Desktop\qsharp\BellsTest\BellsTest_Qsharp\BellsTest_Qsharp\bin\Debug\netcoreapp2.0\BellsTest_Qsharp.pdb
+C:\Users\1712082018\Desktop\qsharp\BellsTest\BellsTest_Qsharp\BellsTest_Qsharp\obj\Debug\netcoreapp2.0\BellsTest_Qsharp.dll
+C:\Users\1712082018\Desktop\qsharp\BellsTest\BellsTest_Qsharp\BellsTest_Qsharp\obj\Debug\netcoreapp2.0\BellsTest_Qsharp.pdb
