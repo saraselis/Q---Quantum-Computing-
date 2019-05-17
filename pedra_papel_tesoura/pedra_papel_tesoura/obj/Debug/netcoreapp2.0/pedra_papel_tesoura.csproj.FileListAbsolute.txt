@@ -1,0 +1,2 @@
+C:\Users\1712081010\Desktop\Qsharp\pedra_papel_tesoura\pedra_papel_tesoura\obj\Debug\netcoreapp2.0\pedra_papel_tesoura.csprojAssemblyReference.cache
+C:\Users\1712081010\Desktop\Qsharp\pedra_papel_tesoura\pedra_papel_tesoura\obj\Debug\netcoreapp2.0\pedra_papel_tesoura.csproj.CoreCompileInputs.cache
