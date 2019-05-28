@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "A:\\Documentos\\Estudos\\Qsharp - Quantum\\pedra-papel-tesoura-aleatoriedade\\QSharpApplication1\\QSharpApplication1\\QSharpApplication1.csproj": {}
+  },
+  "projects": {
+    "A:\\Documentos\\Estudos\\Qsharp - Quantum\\pedra-papel-tesoura-aleatoriedade\\QSharpApplication1\\QSharpApplication1\\QSharpApplication1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\Documentos\\Estudos\\Qsharp - Quantum\\pedra-papel-tesoura-aleatoriedade\\QSharpApplication1\\QSharpApplication1\\QSharpApplication1.csproj",
+        "projectName": "QSharpApplication1",
+        "projectPath": "A:\\Documentos\\Estudos\\Qsharp - Quantum\\pedra-papel-tesoura-aleatoriedade\\QSharpApplication1\\QSharpApplication1\\QSharpApplication1.csproj",
+        "packagesPath": "C:\\Users\\saras\\.nuget\\packages\\",
+        "outputPath": "A:\\Documentos\\Estudos\\Qsharp - Quantum\\pedra-papel-tesoura-aleatoriedade\\QSharpApplication1\\QSharpApplication1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\saras\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Quantum.Development.Kit": {
+              "target": "Package",
+              "version": "[0.6.1905.301, )"
+            },
+            "Microsoft.Quantum.Standard": {
+              "target": "Package",
+              "version": "[0.6.1905.301, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
