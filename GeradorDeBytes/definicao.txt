@@ -1,0 +1,1 @@
+Gerador de Bytes utilizando a aleatoriedade quântica.

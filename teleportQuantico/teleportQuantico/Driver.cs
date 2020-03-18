@@ -3,7 +3,7 @@
 using Microsoft.Quantum.Simulation.Core;
 using Microsoft.Quantum.Simulation.Simulators;
 
-namespace Quantum.helloworld
+namespace Quantum.teleportQuantico
 {
     class Driver
     {

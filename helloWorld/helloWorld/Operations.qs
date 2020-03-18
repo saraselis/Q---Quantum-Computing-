@@ -1,4 +1,4 @@
-﻿namespace Quantum.BellsTest
+﻿namespace Quantum.helloWorld
 {
     open Microsoft.Quantum.Intrinsic;
     open Microsoft.Quantum.Canon;
