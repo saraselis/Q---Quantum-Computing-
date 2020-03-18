@@ -3,11 +3,11 @@
 using Microsoft.Quantum.Simulation.Core;
 using Microsoft.Quantum.Simulation.Simulators;
 
-namespace Quantum._11111
+namespace Quantum.BellsTest
 {
     class Driver
     {
-        static void Main()
+        static void Main(string[] args)
         {
             using (var qsim = new QuantumSimulator())
             {

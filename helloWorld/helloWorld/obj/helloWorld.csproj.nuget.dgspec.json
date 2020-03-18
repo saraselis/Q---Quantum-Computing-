@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1712082018\\Desktop\\qsharp\\11111\\11111\\11111.csproj": {}
+    "C:\\Users\\1712082018\\Desktop\\qsharp\\BellsTest\\BellsTest\\BellsTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1712082018\\Desktop\\qsharp\\11111\\11111\\11111.csproj": {
+    "C:\\Users\\1712082018\\Desktop\\qsharp\\BellsTest\\BellsTest\\BellsTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1712082018\\Desktop\\qsharp\\11111\\11111\\11111.csproj",
-        "projectName": "11111",
-        "projectPath": "C:\\Users\\1712082018\\Desktop\\qsharp\\11111\\11111\\11111.csproj",
+        "projectUniqueName": "C:\\Users\\1712082018\\Desktop\\qsharp\\BellsTest\\BellsTest\\BellsTest.csproj",
+        "projectName": "BellsTest",
+        "projectPath": "C:\\Users\\1712082018\\Desktop\\qsharp\\BellsTest\\BellsTest\\BellsTest.csproj",
         "packagesPath": "C:\\Users\\1712082018\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1712082018\\Desktop\\qsharp\\11111\\11111\\obj\\",
+        "outputPath": "C:\\Users\\1712082018\\Desktop\\qsharp\\BellsTest\\BellsTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
